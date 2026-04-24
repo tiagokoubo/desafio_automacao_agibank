@@ -1,6 +1,6 @@
 
 ## Tech Stack
-* **Java 17** / **Maven**
+* **Java 11** / **Maven**
 * **JUnit 5** (Runner & Assertions)
 * **Selenium WebDriver** & **RestAssured**
 * **ExtentReports** (Reporting Engine)
